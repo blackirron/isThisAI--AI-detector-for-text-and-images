@@ -1,8 +1,9 @@
-# IsThisAI
+# IsThisAI - AI Generated content detector
 
 A "document examiner" style AI-text detector. Paste a passage, get a stamped
 verdict - AI-Generated or Human-Written - with a confidence score and a
 one-line rationale.
+
 🔗 **Live demo:** https://isthisai-non-kiss.onrender.com/
 
 ## What it does
