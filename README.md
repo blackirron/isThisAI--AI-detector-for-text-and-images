@@ -37,3 +37,4 @@ reliable - treat the verdict as a second opinion, not proof. Worth saying so
 explicitly in the UI (already done in the footer note) and in any README you
 show a recruiter, since overclaiming accuracy here would undercut the
 portfolio value more than the imperfect detector itself.
+
