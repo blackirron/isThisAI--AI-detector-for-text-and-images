@@ -25,12 +25,6 @@ uvicorn app.main:app --reload
 ```
 Visit http://localhost:8000
 
-## Deploy (Render, same pattern as your other apps)
-1. Push this to a new GitHub repo
-2. Render → New → Web Service → connect repo → Docker
-3. Environment variables: `GROQ_API_KEY`, `LLM_PROVIDER=groq`, `ENVIRONMENT=production`
-4. Deploy - health check is `/health`
-
 ## Honest limitation
 LLM-based AI-detection is inherently probabilistic and not forensically
 reliable - treat the verdict as a second opinion, not proof. Worth saying so
